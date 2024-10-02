@@ -1,0 +1,56 @@
+[
+  {
+    "title": "Finance Expense Manager",
+    "description": "Track income and expenses with meticulous categorization and multi-account management.",
+    "image": "https://raw.githubusercontent.com/rc22-rahul/Finance-manager/refs/heads/main/.github/images/img1.png",
+    "core_techs": ["typescript", "nextjs", "tailwindcss", "postgresql"],
+    "tags": ["typescript", "reactjs", "nextjs", "tailwindcss", "zustand", "Hono", "shadcn/ui", "Postgresql", "Drizzle"],
+    "repository": "https://github.com/rc22-rahul/Finance-manager",
+    "website": "https://github.com/rc22-rahul/Finance-manager",
+    "priority": 1,
+    "featured": true,
+    "slug": 1
+  },
+  {
+    "title": "React Password Generator",
+    "description": "Tool which generate unique password with combinations of Numbers, Symbols, UpperCase & lowerCase",
+    "image": "https://private-user-images.githubusercontent.com/86233333/372892802-4b09087e-ec5f-4e52-8ab8-c60753138c67.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mjc4NzgxMTMsIm5iZiI6MTcyNzg3NzgxMywicGF0aCI6Ii84NjIzMzMzMy8zNzI4OTI4MDItNGIwOTA4N2UtZWM1Zi00ZTUyLThhYjgtYzYwNzUzMTM4YzY3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEwMDIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMDAyVDE0MDMzM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTNmYWY1ODVjZjMyMGVkNDhlOThjNGE5ZmY2OTUzOWE0NjJmNzU3MmU0YWM3ZmNiOTUyOTBlOGM5ZGFiMDE1ZDMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.mQIw2Uos0VC-3kcGMq6kPIt5tkjF5XPOwUuNt1MUCMQ",
+    "core_techs": ["html", "reactjs", "css"],
+    "tags": ["HTML", "CSS", "Javascript", "reactjs"],
+    "repository": "https://github.com/rc22-rahul/react-password-generator",
+    "website": "https://reactpasswordgenerator.netlify.app/",
+    "featured": true,
+    "slug":2
+  },
+  {
+    "title": "Netflix Clone",
+    "description": "Engineered a comprehensive Netflix replica featuring authentication, seamless video streaming, and full mobile responsiveness with GitHub and Google OAuth.",
+    "image": "https://private-user-images.githubusercontent.com/86233333/337881976-2065aca5-2533-4284-ae1f-e55f4e7f5b75.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mjc4NzcyNjgsIm5iZiI6MTcyNzg3Njk2OCwicGF0aCI6Ii84NjIzMzMzMy8zMzc4ODE5NzYtMjA2NWFjYTUtMjUzMy00Mjg0LWFlMWYtZTU1ZjRlN2Y1Yjc1LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEwMDIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMDAyVDEzNDkyOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTZkNmZlMTM0YmZmMzlhNzE4YTkyOWI3YWVkNjllMzA0MWExYWVjMTRkNWZiMmJhMzA1NjY2ZmRiZjAxNGFhOTAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.YwS0FeMQl1uKyC_84-AkgeNXD2Lvc0myDFTnH9nLYSs",
+    "core_techs": ["typescript", "reactjs", "nextjs", "tailwindcss", "prisma", "bun"],
+    "tags": ["typescript", "reactjs", "nextjs", "tailwindcss", "zustand", "Zustand", "Prisma", "MongoDB"],
+    "repository": "https://github.com/rc22-rahul/Netflix-clone",
+    "website": "https://github.com/rc22-rahul/Netflix-clone",
+    "priority": 1,
+    "featured": true,
+    "slug":3
+  },
+  {
+    "title": "Hand Gesture Controlled Snake Game",
+    "description": "Snake Game which is controlled using hand tracking module and openCv integration.",
+    "image": "https://raw.githubusercontent.com/rc22-rahul/SnakeGame/refs/heads/main/snake-game.jpeg",
+    "core_techs": ["python"],
+    "tags": ["python", "openCV", "numpy", "cv2"],
+    "repository": "https://github.com/rc22-rahul/SnakeGame",
+    "featured": true,
+    "slug":4
+  },
+  {
+    "title": "Expired Domain Finder Tool",
+    "description": "Providing expired domains by crawling all links of websites with approx. 99% accuracy.",
+    "core_techs": ["python"],
+    "tags": ["python", "requests", "BeautifulSoup"],
+    "repository": "https://github.com/rc22-rahul/Expired-Domain-Finder",
+    "featured": true,
+    "slug":5
+  }
+]

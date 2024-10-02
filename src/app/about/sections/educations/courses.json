@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Bachelor of Engineering - ECE",
+    "type": "Bachelor's degree",
+    "start": "2018-07-01T00:00:00.000Z",
+    "end": "2022-06-30T00:00:00.000Z",
+    "ead": false,
+    "tags": [
+      "AI",
+      "Python",
+      "IOT",
+      "Machine Learing",
+      "Arduino",
+      "Wireless Communication",
+      "Signals",
+      "Digital Designs"
+    ],
+    "institution": {
+      "name": "LD College of Engineering",
+      "website": "https://ldce.ac.in/"
+    }
+  }
+]
