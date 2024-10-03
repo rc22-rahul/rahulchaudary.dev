@@ -2,11 +2,31 @@ import type { Metadata, Viewport } from "next";
 import { Providers } from './providers'
 import { Inter, Caveat } from 'next/font/google'
 import { Header } from './_components/header'
+import { config } from "global-config"
 import '@/styles/main.css'
 
 export const metadata: Metadata = {
-  title: "₹ahu! Chaudhar¥",
-  description: "'My description for the internet!!'",
+  ...config.metadata,
+  applicationName: config.metadata.title,
+  authors: [
+    { name: config.metadata.title, url: 'https://github.com/rc22-rahul' }
+  ],
+  category: 'Personal Website',
+  keywords: [
+    'personal',
+    'homepage',
+    'blog',
+    'portfolio',
+    'about',
+    'me',
+    'tech',
+    'programming',
+    'knowledge'
+  ],
+  robots: {
+    follow: true,
+    index: true
+  },
 };
 
 

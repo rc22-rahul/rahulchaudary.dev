@@ -22,6 +22,7 @@
     "paths": {
       "@/*": ["./src/*"],
       "~/*": ["src/*"],
+      "global-config": ["./website.config.ts"]
     }
   },
   "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts"],
