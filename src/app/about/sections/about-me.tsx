@@ -25,7 +25,7 @@ export function AboutMe() {
           <p>
           I’m a Full-Stack Software Engineer with expertise in building scalable applications. Currently, 
           I work at  
-          <a href="#" className="font-medium text-blue-600 dark:text-blue-500 underline "> Adnabu </a>
+          <a href="https://adnabu.com" target='_blank' className="font-medium text-blue-600 dark:text-blue-500 underline "> Adnabu </a>
           where I manage feed management software for Google, Amazon, and Etsy, 
           processing millions of product updates daily for over 10,000 Shopify stores.
           </p>

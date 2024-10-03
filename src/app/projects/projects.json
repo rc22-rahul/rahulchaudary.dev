@@ -6,7 +6,6 @@
     "core_techs": ["typescript", "nextjs", "tailwindcss", "postgresql"],
     "tags": ["typescript", "reactjs", "nextjs", "tailwindcss", "zustand", "Hono", "shadcn/ui", "Postgresql", "Drizzle"],
     "repository": "https://github.com/rc22-rahul/Finance-manager",
-    "website": "https://github.com/rc22-rahul/Finance-manager",
     "priority": 1,
     "featured": true,
     "slug": 1
@@ -29,7 +28,6 @@
     "core_techs": ["typescript", "reactjs", "nextjs", "tailwindcss", "prisma", "bun"],
     "tags": ["typescript", "reactjs", "nextjs", "tailwindcss", "zustand", "Zustand", "Prisma", "MongoDB"],
     "repository": "https://github.com/rc22-rahul/Netflix-clone",
-    "website": "https://github.com/rc22-rahul/Netflix-clone",
     "priority": 1,
     "featured": true,
     "slug":3
