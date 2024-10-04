@@ -1,6 +1,6 @@
 export const config = {
   metadata: {
-    title: "₹ahu! Chaudhar¥",
+    title: "Rahul Chaudhary",
     description: "My description for the internet!!"
   },
   webserver: {
